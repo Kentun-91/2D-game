@@ -1,0 +1,22 @@
+# Fichiers de build
+*.o
+*.obj
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Fichiers de dépendances
+*.depend
+
+# Fichiers temporaires
+*~
+
+# Répertoires générés
+bin/
+obj/
+
+# Fichiers de configuration spécifiques à Code::Blocks
+*.layout
+*.depend
+*.cbp.*
